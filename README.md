@@ -1,4 +1,4 @@
-# 🔍 Face Recognizer
+# Face Recognizer
 
 > Automated face detection, embedding, and clustering across large photo libraries — with a simple desktop GUI.
 
