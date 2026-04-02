@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![PyQt5](https://img.shields.io/badge/GUI-PyQt5-green)
 ![InsightFace](https://img.shields.io/badge/Model-InsightFace%20buffalo__l-orange)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
+![License](https://img.shields.io/badge/license-Apache%202.0-lightgrey)
 
 ---
 
@@ -47,7 +47,7 @@ It supports JPEG, TIFF, PNG, and a wide range of **camera RAW formats** (Canon, 
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/face-recognizer.git
+git clone https://github.com/kilerdevs/face-recognizer.git
 cd face-recognizer
 
 pip install -r requirements.txt
@@ -142,3 +142,7 @@ GPU status, VRAM, driver version, and CUDA version are printed to the console on
 Everything runs **100% locally**. No images, embeddings, or metadata are ever sent to any external server.
 
 ---
+
+## License
+
+Apache License 2.0 — see [`LICENSE`](LICENSE) for details.
